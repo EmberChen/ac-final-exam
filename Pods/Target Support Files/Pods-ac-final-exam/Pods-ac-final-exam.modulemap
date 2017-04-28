@@ -1,0 +1,6 @@
+framework module Pods_ac_final_exam {
+  umbrella header "Pods-ac-final-exam-umbrella.h"
+
+  export *
+  module * { export * }
+}
